@@ -1,27 +1,32 @@
 [
-    {
-        "type": "internal",
-        "url": "/",
-        "title": "Home"
-    },
-    {
-        "type": "internal",
-        "url": "/about-the-demo",
-        "title": "What is this?"
-    },
-    {
-        "type": "internal",
-        "url": "/about-the-ssg",
-        "title": "About Gatsby"
-    },
-    {
-        "type": "internal",
-        "url": "/posts",
-        "title": "Blog"
-    },
-    {
-        "type": "internal",
-        "url": "/the-snake-ate-the-camel",
-        "title": "TPF Blog #1"
-    }
+  {
+    "type": "internal",
+    "url": "/",
+    "title": "TPF #2"
+  },
+  {
+    "type": "internal",
+    "url": "/",
+    "title": "Home"
+  },
+  {
+    "type": "internal",
+    "url": "/about-the-demo",
+    "title": "What is this?"
+  },
+  {
+    "type": "internal",
+    "url": "/about-the-ssg",
+    "title": "About Gatsby"
+  },
+  {
+    "type": "internal",
+    "url": "/posts",
+    "title": "Blog"
+  },
+  {
+    "type": "internal",
+    "url": "/the-snake-ate-the-camel",
+    "title": "TPF Blog #1"
+  }
 ]
