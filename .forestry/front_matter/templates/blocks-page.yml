@@ -20,4 +20,5 @@ fields:
   - block__cta
 pages:
 - src/pages/index.md
+- src/pages/new-podcast-announcement-smarter-together.md
 - src/pages/the-snake-ate-the-camel.md
