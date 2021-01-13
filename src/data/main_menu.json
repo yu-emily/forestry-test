@@ -18,5 +18,10 @@
         "type": "internal",
         "url": "/posts",
         "title": "Blog"
+    },
+    {
+        "type": "internal",
+        "url": "/blog-one",
+        "title": "TPF Blog #1"
     }
 ]
